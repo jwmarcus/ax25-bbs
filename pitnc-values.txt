@@ -1,0 +1,13 @@
+
+Using Serial port /dev/ttyAMA0
+
+   TNC Software Version           1
+01 TXDelay - Zero means use ADC  50
+02 Persistance                   64
+03 Slottime (in 10 mS)           10
+04 TXTail                         3
+05 Full Duplex - Not used         0
+06 Our Channel (Hex)             00
+07 I2C Address (0 = async) Hex   00
+   ADC Value                     50
+8 1 32 40 a 3 0 0 0 32 40 c0 sum 0 
