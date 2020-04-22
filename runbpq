@@ -1,0 +1,2 @@
+cd /home/pi/src/ax25-bbs
+sudo -u pi ./pilinbpq >/dev/tty2

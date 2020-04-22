@@ -1,0 +1,9 @@
+[Unit]
+After=network.target
+
+[Service]
+ExecStart=/bin/bash /home/pi/src/ax25-bbs/runbpq
+Restart=always
+
+[Install]
+WantedBy=multi-user.target
